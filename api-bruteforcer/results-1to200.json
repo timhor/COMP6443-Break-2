@@ -1,0 +1,204 @@
+{
+  "author": "admin", 
+  "content": "BREAK2{26fedf86-1d4d-4363-9aa8-189a64bd3935}, Note to self, delete /admin", 
+  "id": 1, 
+  "name": "flag"
+},
+{
+  "author": "staff_account", 
+  "content": "BREAK2{891c3cd7-a607-4fa9-8c1c-95a6e860dcdf} also /staff/secret/1gbdfte/swagger", 
+  "id": 2, 
+  "name": "staff_api_a456h7dvra"
+},
+{
+  "author": "admin@gmail.com", 
+  "content": "sample text", 
+  "id": 11, 
+  "name": "new_file"
+},
+{
+  "author": "admin@gmail.com", 
+  "content": "", 
+  "id": 12, 
+  "name": "new_file'"
+},
+{
+  "author": "tim", 
+  "content": "", 
+  "id": 23, 
+  "name": "flag"
+},
+{
+  "author": "<script>alert()</script>", 
+  "content": "sample text", 
+  "id": 25, 
+  "name": "admin"
+},
+{
+  "author": "z5161105", 
+  "content": "\"role\":\"Staff\"", 
+  "id": 51, 
+  "name": "wow2"
+},
+{
+  "author": "z5161105", 
+  "content": "' or role='Staff' --", 
+  "id": 53, 
+  "name": "' or role='Staff' --"
+},
+{
+  "author": "' or role='Staff' --", 
+  "content": "' or role='Staff' --", 
+  "id": 54, 
+  "name": "' or role='Staff' --"
+},
+{
+  "author": "admini", 
+  "content": "<alert>0</alert>", 
+  "id": 99, 
+  "name": "<alert>0</alert>"
+},
+{
+  "author": "admini", 
+  "content": "sample text", 
+  "id": 102, 
+  "name": "new_file"
+},
+{
+  "author": "admini", 
+  "content": "sample text", 
+  "id": 103, 
+  "name": "test"
+},
+{
+  "author": "admini", 
+  "content": "<? echo \"hi ?> test", 
+  "id": 104, 
+  "name": "php"
+},
+{
+  "author": "admini", 
+  "content": "<? echo \"hi\" ?> ... there", 
+  "id": 105, 
+  "name": "another"
+},
+{
+  "author": "admini", 
+  "content": "sample text", 
+  "id": 106, 
+  "name": "more"
+},
+{
+  "author": "lolz", 
+  "content": "[<!ENTITY test SYSTEM 'file:///flag.txt'>]>\n<p>&test;</p>", 
+  "id": 111, 
+  "name": "ur mom"
+},
+{
+  "author": "lolz", 
+  "content": "\\[\\<!ENTITY test SYSTEM 'file:///flag.txt'>\\]\n\n<p>&test;</p>", 
+  "id": 112, 
+  "name": "wer"
+},
+{
+  "author": "z509151@bing.com", 
+  "content": "", 
+  "id": 117, 
+  "name": "'admin--"
+},
+{
+  "author": "c3", 
+  "content": "<!ENTITY bar SYSTEM \"file:///admin\">;<foo>&bar;</foo>", 
+  "id": 141, 
+  "name": "test1"
+},
+{
+  "author": "c3", 
+  "content": "<!ENTITY bar SYSTEM \"file:///admin.txt\">;<foo>&bar;</foo>", 
+  "id": 142, 
+  "name": "new_file"
+},
+{
+  "author": "c3", 
+  "content": "<!ENTITY bar SYSTEM \"file:///flag.txt\">;<foo>&bar;</foo>", 
+  "id": 144, 
+  "name": "new_file2"
+},
+{
+  "author": "c3", 
+  "content": "<!ENTITY bar SYSTEM \"file:///flag.db\">;<foo>&bar;</foo>", 
+  "id": 145, 
+  "name": "new_file324"
+},
+{
+  "author": "c4", 
+  "content": "<username>a</username><password>a</password><role>Staff</role>", 
+  "id": 147, 
+  "name": "new_file"
+},
+{
+  "author": "newaccount", 
+  "content": "sample text", 
+  "id": 153, 
+  "name": "flag"
+},
+{
+  "author": "lololol", 
+  "content": "<script>alert(app.secret_key)</script>", 
+  "id": 170, 
+  "name": "new_filey_yeah"
+},
+{
+  "author": "lololol", 
+  "content": "<script>alert(flag)</script>", 
+  "id": 171, 
+  "name": "_heheh_new_file_hhe"
+},
+{
+  "author": "asd", 
+  "content": "sadasf", 
+  "id": 184, 
+  "name": "flag.txt"
+},
+{
+  "author": "asd", 
+  "content": "sample textdsf", 
+  "id": 187, 
+  "name": "flag"
+},
+{
+  "author": "kebab", 
+  "content": "test", 
+  "id": 188, 
+  "name": "staff"
+},
+{
+  "author": "admin123", 
+  "content": "hellooo", 
+  "id": 190, 
+  "name": "'; UNION select table_name from table_schema.tables "
+},
+{
+  "author": "admin123", 
+  "content": "sample text", 
+  "id": 191, 
+  "name": "UNION select filename from files "
+},
+{
+  "author": "admin123", 
+  "content": "sample text", 
+  "id": 192, 
+  "name": "<script>alert(1)</script>"
+},
+{
+  "author": "hellohacker", 
+  "content": "sample text", 
+  "id": 196, 
+  "name": "flag?r=YWRtaW4=\""
+},
+{
+  "author": "staff", 
+  "content": "sample d", 
+  "id": 198, 
+  "name": "adwdawd"
+}
